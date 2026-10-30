@@ -1,0 +1,1 @@
+"""WhiteSentinel — configuration package."""

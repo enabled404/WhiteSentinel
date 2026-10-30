@@ -1,0 +1,15 @@
+NOTICE — WhiteSentinel
+
+WhiteSentinel is built on and extends AdStrike, an open-source Active
+Directory attack framework by capture0x (tmrswrr), available at
+https://github.com/capture0x/AdStrike under the MIT License
+(Copyright 2026 tmrswrr).
+
+The upstream LICENSE file is kept byte-identical in this distribution.
+Upstream code, module behavior, and documentation are retained with
+attribution; the defensive layer added in this distribution (authoritative
+MITRE ATT&CK tagging at source, per-technique detection data, the binary
+coverage matrix, the gap register, Sigma rule export with a validation gate,
+and the three defensive MCP tools) is new work built on top of the base.
+
+WhiteSentinel is the release name for this distribution.

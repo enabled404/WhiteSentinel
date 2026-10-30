@@ -1,0 +1,1 @@
+"""WhiteSentinel — utility helpers package."""

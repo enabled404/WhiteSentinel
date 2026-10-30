@@ -1,0 +1,1 @@
+"""WhiteSentinel — attack modules package."""
